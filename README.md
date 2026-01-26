@@ -67,10 +67,12 @@ modal deploy modal_app.py
 ``` bash
 cd backend
 uvicorn app.main:app --reload
+```
+ or 
+``` bash
+python main.py
 ``` 
 ## Scope & Limitations
 - Research and visualization only
 # Author
-Nguyen Trong Tai 
-Final-year student – Computer Science / AI
-Focus: Medical Imaging, 3D Reconstruction, Deep Learning
+...
